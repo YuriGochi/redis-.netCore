@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RUhKDO+NZoMrOfICSFAr0abDk20FyARXExBncWunJ80=",
+  "Source": "netcore+redis",
+  "BasePath": "_content/netcore+redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
